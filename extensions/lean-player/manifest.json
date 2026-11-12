@@ -1,0 +1,19 @@
+{
+  "id": "lean-player",
+  "name": "Lean Player",
+  "version": "1.0.0",
+  "description": "Lightweight, zero-build local music player with queue management, global search, and status bar controls.",
+  "author": "VenturaNotes",
+  "capabilities": [
+    "action",
+    "status-bar",
+    "vault-only"
+  ],
+  "searchKeywords": [
+    "music",
+    "player",
+    "audio",
+    "mp3",
+    "queue"
+  ]
+}
